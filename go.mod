@@ -1,4 +1,4 @@
-module PDFMerge
+module github.com/TigerCipher/PDFMerge
 
 go 1.21
 
